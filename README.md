@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  About me :
+### 💁 About me :
 - I enjoy creating software with a great user interface and ensuring an exceptional user experience.
 - I’m currently working on developing a programming language.
 - I also spend my time learning about Machine Learning and Generative AI.
