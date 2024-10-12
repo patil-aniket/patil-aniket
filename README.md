@@ -1,4 +1,7 @@
-## Hi there 👋
+<h2> Hi there 👋
+<br />
+I'm Aniket Patil
+</h2>
 
 <!--
 **patil-aniket/patil-aniket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br />
-I'm Aniket Patil
-</h2>
 
 
 ### 👾 About me :
