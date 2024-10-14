@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 |1.|Software Engineer @ [GEP Worldwide](https://www.gep.com/)|Jun 2022 - Aug 2024|
 |2.|Junior Software Developer Intern @ [DQUIP](https://www.dquip.com/)|Aug 2021 - Jun 2022|
 
-### ⚡ Random Dev Quote
+### ⚡ Random Dev Quote :
 <div align="center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
